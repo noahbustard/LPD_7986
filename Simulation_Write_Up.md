@@ -25,8 +25,8 @@
 
 ## Functional Verification
 All datapath components working correctly:
-- ✓ Instruction encoding
-- ✓ Control logic (opcode decoding)
-- ✓ Register file
-- ✓ ALU
-- ✓ Hex display path
+✓ Instruction encoding
+✓ Control logic (opcode decoding)
+✓ Register file
+✓ ALU
+✓ Hex display path
